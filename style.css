@@ -1,0 +1,27 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  text-align: center;
+  background-color: #ccf2ff;
+}
+
+figure {
+  background: #fff;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+ul {
+   margin: 0 auto 50px auto;
+   text-align: left;
+   max-width: 550px;
+   line-height: 1.6;
+}
+
+section {
+    display: block;
+}
